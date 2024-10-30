@@ -1,0 +1,42 @@
+2024-10-30 12:27:18,833 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-10-30 12:27:18,834 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2024-10-30 12:27:18,843 INFO RPC interface 'supervisor' initialized
+2024-10-30 12:27:18,844 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-10-30 12:27:18,844 INFO supervisord started with pid 1
+2024-10-30 12:28:24,332 WARN received SIGQUIT indicating exit request
+2024-10-30 12:28:29,631 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-10-30 12:28:29,631 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2024-10-30 12:28:29,639 INFO RPC interface 'supervisor' initialized
+2024-10-30 12:28:29,639 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-10-30 12:28:29,640 INFO supervisord started with pid 1
+2024-10-30 12:30:16,340 WARN received SIGQUIT indicating exit request
+2024-10-30 12:30:24,881 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-10-30 12:30:24,882 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2024-10-30 12:30:24,893 INFO RPC interface 'supervisor' initialized
+2024-10-30 12:30:24,894 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-10-30 12:30:24,896 INFO supervisord started with pid 1
+2024-10-30 12:32:07,715 WARN received SIGQUIT indicating exit request
+2024-10-30 12:32:11,086 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-10-30 12:32:11,094 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2024-10-30 12:32:11,106 INFO RPC interface 'supervisor' initialized
+2024-10-30 12:32:11,108 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-10-30 12:32:11,108 INFO supervisord started with pid 1
+2024-10-30 12:33:44,852 WARN received SIGQUIT indicating exit request
+2024-10-30 12:33:59,952 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-10-30 12:33:59,953 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2024-10-30 12:33:59,961 INFO RPC interface 'supervisor' initialized
+2024-10-30 12:33:59,961 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-10-30 12:33:59,962 INFO supervisord started with pid 1
+2024-10-30 12:38:12,615 WARN received SIGQUIT indicating exit request
+2024-10-30 12:38:23,843 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-10-30 12:38:23,843 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2024-10-30 12:38:23,847 INFO RPC interface 'supervisor' initialized
+2024-10-30 12:38:23,848 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-10-30 12:38:23,848 INFO supervisord started with pid 1
+2024-10-30 12:39:36,373 WARN received SIGQUIT indicating exit request
+2024-10-30 12:39:38,402 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-10-30 12:39:38,403 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2024-10-30 12:39:38,415 INFO RPC interface 'supervisor' initialized
+2024-10-30 12:39:38,416 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-10-30 12:39:38,416 INFO supervisord started with pid 1
+2024-10-30 12:59:47,976 WARN received SIGQUIT indicating exit request
